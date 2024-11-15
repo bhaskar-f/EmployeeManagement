@@ -1,1 +1,1 @@
-Employee management app using java
+Employee management app using java and Swing
